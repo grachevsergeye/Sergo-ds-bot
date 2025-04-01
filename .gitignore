@@ -18,6 +18,7 @@ pnpm-debug.log
 dist/
 build/
 out/
+*node_modules
 
 # Misc
 tmp/
